@@ -1,0 +1,12 @@
+C:\Users\Tatyana\source\repos\UserLoginCustomList\UserLoginCustomList\bin\Debug\UserLoginCustomList.exe.config
+C:\Users\Tatyana\source\repos\UserLoginCustomList\UserLoginCustomList\bin\Debug\UserLoginCustomList.exe
+C:\Users\Tatyana\source\repos\UserLoginCustomList\UserLoginCustomList\bin\Debug\UserLoginCustomList.pdb
+C:\Users\Tatyana\source\repos\UserLoginCustomList\UserLoginCustomList\bin\Debug\EntityFramework.dll
+C:\Users\Tatyana\source\repos\UserLoginCustomList\UserLoginCustomList\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tatyana\source\repos\UserLoginCustomList\UserLoginCustomList\bin\Debug\EntityFramework.xml
+C:\Users\Tatyana\source\repos\UserLoginCustomList\UserLoginCustomList\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tatyana\source\repos\UserLoginCustomList\UserLoginCustomList\obj\Debug\UserLoginCustomList.csprojAssemblyReference.cache
+C:\Users\Tatyana\source\repos\UserLoginCustomList\UserLoginCustomList\obj\Debug\UserLoginCustomList.csproj.CoreCompileInputs.cache
+C:\Users\Tatyana\source\repos\UserLoginCustomList\UserLoginCustomList\obj\Debug\UserLoginCustomList.csproj.CopyComplete
+C:\Users\Tatyana\source\repos\UserLoginCustomList\UserLoginCustomList\obj\Debug\UserLoginCustomList.exe
+C:\Users\Tatyana\source\repos\UserLoginCustomList\UserLoginCustomList\obj\Debug\UserLoginCustomList.pdb
